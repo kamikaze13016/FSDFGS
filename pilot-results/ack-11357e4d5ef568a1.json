@@ -1,0 +1,7 @@
+{
+  "protocol": "PILOT_ACK_V1",
+  "mission_id": "pilot-real-20261105-01",
+  "command_sha": "11357e4d5ef568a1fadd5ebacda38cbc930501f4",
+  "status": "received_on_iphone",
+  "note": "Test technique sans donnees personnelles"
+}
