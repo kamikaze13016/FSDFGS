@@ -1,6 +1,6 @@
 {
   "action": "ping",
   "id": "pilot-real-20261105-01",
-  "message": "PILOT ETAPE 2 : commande modifiee a distance par ChatGPT. Relecture sans changer le script.",
-  "probe": "PILOT-DEUXIEME-LECTURE-OK"
+  "message": "PILOT ETAPE 3 : test de lancement automatique par Raccourcis. Aucune action externe.",
+  "probe": "SHORTCUTS-AUTOMATION-TEST-V1"
 }
