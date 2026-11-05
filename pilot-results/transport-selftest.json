@@ -1,0 +1,7 @@
+{
+  "protocol": "PILOT_ACK_V1",
+  "origin": "chatgpt_server_side_selftest_NOT_FROM_IPHONE",
+  "mission_id": "pilot-real-20261105-01",
+  "status": "reader_selftest_only",
+  "note": "Synthetic self-test. This is not proof of any iPhone-to-GitHub communication. Do not confuse with ack-*.json files."
+}
