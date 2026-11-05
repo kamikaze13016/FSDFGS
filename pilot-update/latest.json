@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "version": "1.2.0",
+  "script_path": "pilot-update/releases/pilot-1.2.0.js",
+  "sha256": "5b6dff6f74e73617f2bbb6a2f41623fd8aaa7e112e73619a07eab326024fdbb5",
+  "signature": "nVtwYep4UH1oQ6r6Za8ViHgoQpyZzcb9Jx7oex/Iqc+xxbmWyLBjnLBeEpLfB2O791rkxXW00YxPCR7YWNdZZOp5x6BSs4Wx5GWiWyebw3M6I2izF5dD5sq/oppErWAvW/9YFSr5I+Lrfjr7gKqLyjIs6+1lHIPVxbANmJJZEbRU8PJ1V1/rKyEpV0cXM279ehzbG5AVr5EhWaMYWUVsfWbHd8QjQnBWdwjB1PSdy2YhdjH9GcJuUgUbPj+mH4hXXRJqqAaRVIsSJbAaiap4Ss+DAU9AtYm5QdNfgMcQkWcBDJvN1m6eAl0c7ZcOU7YQNunmR2X8dIM/K7mKLtZPGA=="
+}
